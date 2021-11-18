@@ -1,7 +1,7 @@
 # Digital-Forensics
 ## Scenario
 
-In this week's assignment, you will continue to work with your group to continue the final report you began in class. The instructions are included here again for reference. There is also a bonus activity aimed to sharpen your skills in locating and identifying data in a forensic image.
+In this assignment, you will continue to work with your group to continue the final report you began in class. The instructions are included here again for reference. There is also a bonus activity aimed to sharpen your skills in locating and identifying data in a forensic image.
 
 Scenario
 Just as in a real-world scenario, you will complete a final report to present your findings. You will work with your team to fill out the report.
