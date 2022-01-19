@@ -58,7 +58,7 @@ First, fill out the following evidence worksheet to document the case's WiFi and
 
 
 
-When including pictures from the iPhone, please use the time stamp of the Created time from autopsy.
+_When including pictures from the iPhone, please use the time stamp of the Created time from autopsy._
 
 ## Submission
 [Submission File National Gallery Case Report.pdf](https://github.com/BrandonQ3/Digital-Forensics-Scenario/files/7564772/Submission.File.National.Gallery.Case.Report.pdf)
