@@ -63,4 +63,3 @@ _When including pictures from the iPhone, please use the time stamp of the Creat
 ## Submission
 [Submission File National Gallery Case Report.pdf](https://github.com/BrandonQ3/Digital-Forensics-Scenario/files/7564772/Submission.File.National.Gallery.Case.Report.pdf)
 
-[Project 2 Topograpy.pdf](https://github.com/BrandonQ3/Digital-Forensics-Scenario/files/7900615/Project.2.Topograpy.pdf)
